@@ -1,5 +1,6 @@
 // Data Type
 
+// hey
 //Strig
 let propozitiaNoastra = "Riedl are mere."
 //Number
